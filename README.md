@@ -3,7 +3,7 @@
 
 Este repositório contém meus projetos acadêmicos e pessoais. Você pode conferir meu portfólio clicando no link abaixo:
 
-- [Acesse meu portfólio online](https://seu-usuario.github.io/portifolio-hub/)
+- [Acesse meu portfólio online](https:/GabrielSSegatto.github.io/portifolio-hub/)
 
 ## Estrutura do Repositório
 
